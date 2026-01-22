@@ -1,0 +1,7 @@
+# No external dependencies required.
+# This project runs on standard Python 3.7+ libraries:
+# - dataclasses
+# - math
+# - json
+# - argparse
+# - typing

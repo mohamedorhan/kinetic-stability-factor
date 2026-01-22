@@ -1,13 +1,12 @@
-# Kinetic Conversion Efficiency (S): A Universal Motion Efficiency Metric
+Kinetic Conversion Efficiency (S): A Universal Motion Efficiency Metric
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11467499.svg)](https://doi.org/10.5281/zenodo.11467499)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18340388.svg)](https://doi.org/10.5281/zenodo.18340388)
 
 **A rigorous, physically grounded comparative framework for evaluating dynamic system efficiency across heterogeneous domains (Mechanical, Robotic, and Computational).**
 
 ---
-
 ## 📌 Overview
 
 The **Kinetic Conversion Efficiency ($S$)** is a unified metric designed to quantify how effectively a system transforms energetic input into kinematic output. Unlike domain-specific metrics (like MPG or thermal efficiency), $S$ provides a normalized "Figure of Merit" applicable to any system where energy consumption drives motion or progress.
